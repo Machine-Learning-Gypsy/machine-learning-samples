@@ -1,2 +1,2 @@
-# machine-learning-samples
-Experiments to practice machine learning.
+# machine learning samples
+my experiments to practice machine learning.
